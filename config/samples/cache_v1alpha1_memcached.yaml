@@ -1,0 +1,6 @@
+apiVersion: cache.vikyhk.cn/v1alpha1
+kind: Memcached
+metadata:
+  name: memcached-sample
+spec:
+  # Add fields here
